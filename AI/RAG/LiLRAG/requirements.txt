@@ -1,0 +1,11 @@
+llama-index>=0.10.37
+qdrant-client>=1.9.1
+llama-index-readers-file>=0.1.22
+llama-index-vector-stores-qdrant>=0.2.8
+cohere>=5.5.0
+openai>=1.30.1
+llama-index-llms-cohere>=0.2.0
+llama-index-llms-openai>=0.1.19
+llama-index-embeddings-cohere>=0.1.8
+llama-index-embeddings-openai>=0.1.9
+llama-index-postprocessor-cohere-rerank>=0.1.6
